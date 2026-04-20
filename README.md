@@ -1,6 +1,16 @@
 ## Sales Report :
 
-- **Project objective:** 1. Create a [Customer Net Sale Performance Report](https://github.com/zhanar2025/Excel-Sales-Analytics/blob/main/Customer%20Net%20Sale%20Performance.pdf) 
+- **Project objective:** 1. **Customer Net Sale Performance Report**:
+    <details>
+    <summary>🔍 <i>Click to view 2-page report (JPG)</i></summary>
+    <br>
+    
+    #### Page 1
+    ![Customer Net Sale Performance 1](https://github.com/zhanar2025/Excel-Sales-Analytics/blob/main/Customer%20Net%20Sale%20Performance%201.jpg)
+    
+    #### Page 2
+    ![Customer Net Sale Performance 2](https://github.com/zhanar2025/Excel-Sales-Analytics/blob/main/Customer%20Net%20Sale%20Performance%202.jpg)
+    </details>
     2. Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/zhanar2025/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.jpg)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
@@ -9,7 +19,17 @@
 
 ## Finance Report :
 
-- **Project objective:** 1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/zhanar2025/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Year.pdf)
+- **Project objective:** 1. **Profit and Loss (P&L) reports by Fiscal Year**:
+    <details>
+    <summary>🔍 <i>Click to view 2-page report (JPG)</i></summary>
+    <br>
+    
+    #### Page 1
+    ![P & L by Fiscal Year 1](https://github.com/zhanar2025/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Year%201.jpg)
+    
+    #### Page 2
+    ![P & L by Fiscal Year 2](https://github.com/zhanar2025/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Year%202.jpg)
+    </details>
     2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/zhanar2025/Excel-Sales-Analytics/blob/main/P%20%26%20L%20For%20Markets.jpg)
 
 - **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
